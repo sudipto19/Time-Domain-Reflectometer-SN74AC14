@@ -63,15 +63,6 @@ The circuit consists of:
 ### Schematic Diagram
 ![Schematic 1](Images/Schematic%201.jpg)
 
-## Getting Started
-
-1. Review the prototype board image above
-2. Study the schematic diagram shown above
-3. Gather the required components (see BOM in schematic - (TO BE UPDATED SOON))
-4. Assemble the circuit following the schematic
-5. Connect the cable under test
-6. Power up and begin measurements
-
 ## Safety Considerations
 
 - Ensure proper grounding
